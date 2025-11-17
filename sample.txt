@@ -1,1 +1,2 @@
 This is a sample file other than test
+this is the second line
