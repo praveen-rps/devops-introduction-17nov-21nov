@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is text from branchA
+=======
+This is text from branchA
+>>>>>>> branchB
